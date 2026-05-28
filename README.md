@@ -1,4 +1,4 @@
-<img width="891" height="630" alt="{13FC583A-CF34-49B4-B9BB-345AC37668D3}" src="https://github.com/user-attachments/assets/8085370d-bcb3-4ead-92c3-ac47eaf687d3" /># EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
+# EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
